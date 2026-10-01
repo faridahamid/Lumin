@@ -1,0 +1,36 @@
+﻿# Secrets
+.env
+*.key
+
+# Flutter
+app/.dart_tool/
+app/build/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/android/local.properties
+
+# Python
+backend/.venv/
+backend/venv/
+backend/__pycache__/
+backend/.pytest_cache/
+*.pyc
+
+# Training outputs
+training/**/runs/
+training/**/wandb/
+training/**/checkpoints/
+training/**/.cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Android generated
+app/android/.kotlin/
+
+# Local env files
+.env
+*.env

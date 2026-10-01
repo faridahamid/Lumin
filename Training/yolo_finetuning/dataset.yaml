@@ -1,0 +1,32 @@
+﻿path: /path/to/lumin_dataset
+train: images/train
+val: images/val
+
+# Final annotated dataset classes used for YOLO fine-tuning.
+names:
+  0: Desk
+  1: Plate
+  2: bandage
+  3: carpet
+  4: curtain
+  5: door
+  6: door_handle
+  7: drawer
+  8: fan
+  9: glasses
+  10: head_phones
+  11: heater
+  12: lamp
+  13: light_switch
+  14: mirror
+  15: pillow
+  16: plastic_bag
+  17: pot
+  18: shelf
+  19: socket
+  20: table
+  21: tissue
+  22: towel
+  23: washing_machine
+  24: wheelchair
+  25: window
