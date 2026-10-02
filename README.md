@@ -44,7 +44,7 @@ The voice prompts are designed around **Egyptian Arabic**, with an Android wake-
 
 | Material | Explore |
 |---|---|
-| **Project demonstration** | [Watch / download the LUMIN demo](Demo/Graduation%20Project%20Demo%28Lumin%29.mp4) |
+| **Project demonstration** | [Watch the LUMIN demo on YouTube](https://youtu.be/bFaR9sQwEBA) |
 | **graduation report** | [Read the full project report](Document%26poster/Graduation%20Project%20Report.pdf) |
 | **Project poster** | [View the poster](Document%26poster/Poster.pdf) |
 | **Model training notebook** | [Explore the YOLO fine-tuning workflow](Training/yolo_finetuning/trainyolo.ipynb) |
